@@ -34,3 +34,33 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+
+
+
+
+
+# ResearchOS AI
+
+An AI-powered collaborative research workspace built with Next.js, Convex, and Gemini AI.
+
+## Features
+
+- Dashboard
+- Workspace Management
+- Real-time Database
+- AI Research Assistant (Coming Soon)
+- PDF Upload (Coming Soon)
+- Notes (Coming Soon)
+- Tasks (Coming Soon)
+
+## Tech Stack
+
+- Next.js
+- TypeScript
+- Convex
+- Tailwind CSS
+- shadcn/ui
+- Lucide React
